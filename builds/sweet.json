@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "romi.yusna",
+      "oem": "Xiaomi",
+      "device": "sweet",
+      "filename": "OrionOS-15.1-Hydroxide-sweet-Official-Gapps-20250213.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15/sweet/OrionOS-15.1-Hydroxide-sweet-Official-Gapps-20250213.zip/download",
+      "timestamp": 1739459952,
+      "md5": "ead496a63a22705dd95c0778d33451dd",
+      "sha256": "72df3c2fe6fe880999f51354dd40e3b61554c1ade285947a0f3e1d3d322182b7",
+      "size": 2865948503,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/k_build_support",
+      "firmware": "https://xmfirmwareupdater.com/firmware/sweet/stable/V14.0.8.0.TKFMIXM/",
+      "paypal": "https://www.paypal.me/Romiyusnandar",
+      "telegram": "https://t.me/RyuDevpr",
+      "github": "https://github.com/romiyusnandar"
+    }
+  ]
+}
