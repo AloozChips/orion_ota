@@ -1,1 +1,22 @@
--
+{
+  "response": [
+    {
+      "maintainer": "Hirokixd",
+      "oem": "Xiaomi",
+      "device": "ginkgo",
+      "filename": "OrionOS-15.1-Hydroxide-ginkgo-Official-Gapps-20250215.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15/ginkgo/OrionOS-15.1-Hydroxide-ginkgo-Official-Gapps-20250215.zip/download",
+      "timestamp": 1739604070,
+      "md5": "ce9ebf2725adb36faa20b0738bced348",
+      "sha256": "154c70d2c6d2c57e40b85b8ead846aead57c08f2110591f385d3bed58e5b113d",
+      "size": 2277250704,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/HKprjct",
+      "firmware": "https://t.me/BreakdownsCloud/529",
+      "paypal": "https://paypal.me/wendiwardani",
+      "telegram": "https://t.me/Hirokixd28",
+      "github": "https://github.com/Wrdn28"
+    }
+  ]
+}
