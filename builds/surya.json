@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "Skyy丨アラタ",
+      "oem": "xiaomi",
+      "device": "surya",
+      "filename": "OrionOS-15.1-Hydroxide-surya-Official-Gapps-20250301.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15/surya/OrionOS-15.1-Hydroxide-surya-Official-Gapps-20250301.zip/download",
+      "timestamp": 1740842240,
+      "md5": "65b3e28212f2af5faef2cbc539db2de3",
+      "sha256": "2c5f36aad98da02bfde85b6332cc7fa821c2e08bfd1e0ecc216a0cd898df3869",
+      "size": 2661492422,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/ArataXDummy",
+      "firmware": "https://t.me/mirrorlinkbyvinz/714",
+      "paypal": "https://paypal.me/skyyisvinz?country.x=ID&locale.x=id_ID",
+      "telegram": "https://t.me/HinohArata",
+      "github": "https://github.com/Arata-Stuffs"
+    }
+  ]
+}
