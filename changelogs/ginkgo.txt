@@ -1,11 +1,2 @@
-# 19 February 2025
-- Source: Fix Play Store Certificate Issue
-
-# 15 February 2025
-- Initial OrionOS A15 Build
-- Include Anx Camera
-- Dolby atmos included
-- Dynamic partition non Erofs
-- Add Uclamp tuning
-- Update Power Profile
-- Use reserved from source
+# 12 December 2025
+- Initial OrionOS A16 Release
