@@ -1,0 +1,6 @@
+# 24 December 2025
+- Initial Official Orion build
+- ship with 4.19.x.x TheoneMemory 
+- improve peformance and stability
+- Rooted by default kernel
+- use Apps Kernelsu Next v1.0.8 
